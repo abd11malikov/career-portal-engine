@@ -1,0 +1,219 @@
+[
+  {
+    "id": "staff-1",
+    "lastName": "Tuychiyev",
+    "firstName": "Sarvar",
+    "middleName": "Baxtiyarovich",
+    "email": "s.tuychiyev@newuu.uz",
+    "role": "Chief Specialist",
+    "department": "Department of Industrial Cooperation",
+    "profilePhoto": "photos/Staff_photo/Staff001.jpg",
+    "phone": "+998 71 230 11 22",
+    "office": "Block B, Room 205",
+    "bio": "Supports industrial partnerships and internship placement for NewUU students."
+  },
+  {
+    "id": "staff-legacy",
+    "firstName": "Portal",
+    "lastName": "Coordinator",
+    "email": "staff@newuzbekistan.edu.uz",
+    "role": "Career Specialist",
+    "department": "Career Portal",
+    "profilePhoto": "https://api.dicebear.com/7.x/notionists-neutral/svg?seed=career",
+    "phone": "+998 71 123 45 67",
+    "office": "Main Building, Room 101",
+    "bio": "Legacy demo account for quick logins."
+  },
+  {
+    "id": "staff-2",
+    "firstName": "Lester",
+    "lastName": "Beer",
+    "email": "cathryn.carroll54@newuzbekistan.edu.uz",
+    "role": "Career Specialist",
+    "department": "Career Center"
+  },
+  {
+    "id": "staff-3",
+    "firstName": "Amely",
+    "lastName": "Kerluke",
+    "email": "molly.erdman@newuzbekistan.edu.uz",
+    "role": "Dean Assistant",
+    "department": "Academic Affairs"
+  },
+  {
+    "id": "staff-4",
+    "firstName": "Antoinette",
+    "lastName": "Tromp",
+    "email": "christine.terry@newuzbekistan.edu.uz",
+    "role": "HR Partner",
+    "department": "Student Affairs"
+  },
+  {
+    "id": "staff-5",
+    "firstName": "Fausto",
+    "lastName": "Collins",
+    "email": "eleanora20@newuzbekistan.edu.uz",
+    "role": "HR Partner",
+    "department": "Academic Affairs"
+  },
+  {
+    "id": "staff-6",
+    "firstName": "Heath",
+    "lastName": "Mann",
+    "email": "mafalda44@newuzbekistan.edu.uz",
+    "role": "HR Partner",
+    "department": "Career Center"
+  },
+  {
+    "id": "staff-7",
+    "firstName": "Rebekah",
+    "lastName": "Miller",
+    "email": "walter.larson@newuzbekistan.edu.uz",
+    "role": "Dean Assistant",
+    "department": "Student Affairs"
+  },
+  {
+    "id": "staff-8",
+    "firstName": "Sigurd",
+    "lastName": "Dickens",
+    "email": "zola_wolf56@newuzbekistan.edu.uz",
+    "role": "Career Specialist",
+    "department": "Student Affairs"
+  },
+  {
+    "id": "staff-9",
+    "firstName": "Gene",
+    "lastName": "Kshlerin",
+    "email": "aubrey.goldner@newuzbekistan.edu.uz",
+    "role": "HR Partner",
+    "department": "Career Center"
+  },
+  {
+    "id": "staff-10",
+    "firstName": "Magnus",
+    "lastName": "Franey",
+    "email": "angeline51@newuzbekistan.edu.uz",
+    "role": "Dean Assistant",
+    "department": "Career Center"
+  },
+  {
+    "id": "staff-11",
+    "firstName": "Dorcas",
+    "lastName": "Kohler",
+    "email": "loraine_gislason53@newuzbekistan.edu.uz",
+    "role": "Dean Assistant",
+    "department": "Student Affairs"
+  },
+  {
+    "id": "staff-12",
+    "firstName": "Cyril",
+    "lastName": "Windler",
+    "email": "rod.ebert@newuzbekistan.edu.uz",
+    "role": "Career Specialist",
+    "department": "Career Center"
+  },
+  {
+    "id": "staff-13",
+    "firstName": "Audreanne",
+    "lastName": "Hilpert",
+    "email": "jade78@newuzbekistan.edu.uz",
+    "role": "HR Partner",
+    "department": "Academic Affairs"
+  },
+  {
+    "id": "staff-14",
+    "firstName": "Jerrell",
+    "lastName": "Ledner",
+    "email": "pietro55@newuzbekistan.edu.uz",
+    "role": "HR Partner",
+    "department": "Career Center"
+  },
+  {
+    "id": "staff-15",
+    "firstName": "Hattie",
+    "lastName": "Miller",
+    "email": "jayde_herman@newuzbekistan.edu.uz",
+    "role": "Dean Assistant",
+    "department": "Academic Affairs"
+  },
+  {
+    "id": "staff-16",
+    "firstName": "Kayley",
+    "lastName": "Kessler",
+    "email": "lelia14@newuzbekistan.edu.uz",
+    "role": "HR Partner",
+    "department": "Career Center"
+  },
+  {
+    "id": "staff-17",
+    "firstName": "Uriel",
+    "lastName": "Kuvalis",
+    "email": "ambrose79@newuzbekistan.edu.uz",
+    "role": "Career Specialist",
+    "department": "Academic Affairs"
+  },
+  {
+    "id": "staff-18",
+    "firstName": "Marian",
+    "lastName": "Lesch",
+    "email": "arne94@newuzbekistan.edu.uz",
+    "role": "HR Partner",
+    "department": "Career Center"
+  },
+  {
+    "id": "staff-19",
+    "firstName": "Josh",
+    "lastName": "Hoppe",
+    "email": "karina.casper@newuzbekistan.edu.uz",
+    "role": "Dean Assistant",
+    "department": "Student Affairs"
+  },
+  {
+    "id": "staff-20",
+    "firstName": "Jerrold",
+    "lastName": "Mills",
+    "email": "bulah.kassulke@newuzbekistan.edu.uz",
+    "role": "HR Partner",
+    "department": "Student Affairs"
+  },
+  {
+    "id": "staff-21",
+    "firstName": "Kelli",
+    "lastName": "Gorczany",
+    "email": "muhammad.mante85@newuzbekistan.edu.uz",
+    "role": "Career Specialist",
+    "department": "Student Affairs"
+  },
+  {
+    "id": "staff-22",
+    "firstName": "Hertha",
+    "lastName": "Farrell",
+    "email": "wyatt32@newuzbekistan.edu.uz",
+    "role": "Career Specialist",
+    "department": "Career Center"
+  },
+  {
+    "id": "staff-23",
+    "firstName": "Aimee",
+    "lastName": "Klein",
+    "email": "eleazar9@newuzbekistan.edu.uz",
+    "role": "HR Partner",
+    "department": "Career Center"
+  },
+  {
+    "id": "staff-24",
+    "firstName": "Summer",
+    "lastName": "Pollich",
+    "email": "leora.deckow84@newuzbekistan.edu.uz",
+    "role": "Dean Assistant",
+    "department": "Academic Affairs"
+  },
+  {
+    "id": "staff-25",
+    "firstName": "Vincent",
+    "lastName": "Towne",
+    "email": "isabella_berge@newuzbekistan.edu.uz",
+    "role": "Dean Assistant",
+    "department": "Academic Affairs"
+  }
+]

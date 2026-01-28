@@ -1,0 +1,173 @@
+[
+  {
+    "account": {
+      "id": "prof-1",
+      "role": "professor",
+      "email": "elon.mask@newuu.uz",
+      "phone": "+998 71 440 22 33",
+      "passwordHash": "$2a$10$professor123",
+      "status": "active",
+      "createdAt": "2018-09-01T09:00:00.000Z",
+      "updatedAt": "2025-01-10T14:15:00.000Z",
+      "lastLoginAt": "2025-01-20T07:30:00.000Z",
+      "twoFactorEnabled": true,
+      "preferredLanguage": "en"
+    },
+    "personalInformation": {
+      "profilePhoto": "photos/Professor_photo/images.jpeg",
+      "firstName": "Elon",
+      "lastName": "Mask",
+      "middleName": "Qodirovich",
+      "gender": "male",
+      "dateOfBirth": "1984-05-12",
+      "citizenship": "Uzbekistan",
+      "passportNumber": "AA7654321",
+      "personalPhone": "+998 90 511 00 44",
+      "personalEmail": "elon.mask@newuu.uz",
+      "office": {
+        "building": "Innovation Hub",
+        "room": "IH-502",
+        "address": "54 Mustaqillik Avenue, Tashkent",
+        "phone": "+998 71 987 65 20",
+        "extension": "502"
+      }
+    },
+    "academicInformation": {
+      "university": "New Uzbekistan University",
+      "campus": "Main Tashkent Campus",
+      "faculty": "Engineering",
+      "department": "Robotics & AI Systems",
+      "position": "Professor of Robotics",
+      "academicDegree": "PhD in Robotics",
+      "academicRank": "Professor",
+      "employmentType": "full-time",
+      "startDate": "2016-09-01",
+      "workloadHoursPerWeek": 32,
+      "officeHours": [
+        { "day": "Monday", "time": "10:00-12:00", "location": "IH-502" },
+        { "day": "Wednesday", "time": "15:00-17:00", "location": "IH-502" }
+      ],
+      "instructionLanguages": ["en", "ru"]
+    },
+    "teaching": {
+      "courses": [
+        { "courseCode": "AI450", "courseName": "Advanced Robotics Systems", "semester": "Spring", "year": "2024/2025" },
+        { "courseCode": "AI320", "courseName": "Machine Vision", "semester": "Fall", "year": "2024/2025" }
+      ],
+      "academicGroups": ["2024-ROB-1", "2024-AI-4"],
+      "advisees": ["student-featured", "student-145", "student-201"],
+      "supervisingRoles": [
+        {
+          "studentId": "student-145",
+          "studentName": "Laylo Abdullayeva",
+          "role": "supervisor",
+          "topic": "Autonomous Drone Delivery",
+          "level": "Master Thesis"
+        },
+        {
+          "studentId": "student-201",
+          "studentName": "Hakim Karimov",
+          "role": "co-supervisor",
+          "topic": "Edge AI for Factories",
+          "level": "Capstone Project"
+        }
+      ]
+    },
+    "researchProfile": {
+      "researchAreas": ["Humanoid Robotics", "AI Safety", "Human-Robot Interaction"],
+      "bio": "Elon Mask leads the Robotics Systems Lab, focusing on applied AI for industry automation and smart campuses.",
+      "educationHistory": [
+        { "degree": "PhD Robotics", "university": "ETH Zurich", "year": "2012" },
+        { "degree": "MSc Mechatronics", "university": "Nanyang Technological University", "year": "2008" }
+      ],
+      "workExperience": [
+        {
+          "company": "FutureBots",
+          "position": "Head of Research",
+          "period": "2012-2016",
+          "responsibilities": ["Led robotics R&D programs", "Collaborated with automotive partners"]
+        }
+      ],
+      "publications": [
+        {
+          "title": "Adaptive Control for Humanoid Arms",
+          "year": "2024",
+          "venue": "Nature Robotics",
+          "link": "https://doi.org/10.1234/newuu.2024.021"
+        }
+      ],
+      "projectsAndGrants": [
+        {
+          "name": "Smart Factory Fellows",
+          "role": "Principal Investigator",
+          "sponsor": "Artel Innovation Fund",
+          "dates": "2023-2026"
+        }
+      ],
+      "patents": ["Modular Humanoid Joint"],
+      "awards": ["Best Research Mentor 2024"],
+      "memberships": ["IEEE", "IFR"],
+      "skills": ["Python", "ROS", "MATLAB"],
+      "spokenLanguages": [
+        { "language": "English", "level": "C2" },
+        { "language": "Russian", "level": "B2" }
+      ]
+    },
+    "evaluations": [
+      {
+        "studentId": "student-featured",
+        "studentName": "Fahriddin Hayitov",
+        "overallScore": 9.2,
+        "subjectKnowledge": 9,
+        "practicalSkills": 9,
+        "softSkills": 8,
+        "leadership": 9,
+        "responsibility": 9,
+        "comment": "Prototype-ready solutions with strong initiative.",
+        "recommendation": "Ideal for robotics fellowships.",
+        "visibility": "industry",
+        "lastUpdated": "2025-01-11T09:00:00.000Z"
+      },
+      {
+        "studentId": "student-145",
+        "studentName": "Laylo Abdullayeva",
+        "overallScore": 8.7,
+        "subjectKnowledge": 9,
+        "practicalSkills": 8,
+        "softSkills": 9,
+        "leadership": 8,
+        "responsibility": 9,
+        "comment": "Excellent mentor for junior teammates.",
+        "recommendation": "Ready for international internship.",
+        "visibility": "internal",
+        "lastUpdated": "2024-12-20T10:00:00.000Z"
+      }
+    ],
+    "industryInteractions": {
+      "internships": [
+        {
+          "id": "intern-robotics-1",
+          "company": "Artel Electronics",
+          "position": "Robotics Innovation Intern",
+          "studentId": "student-featured",
+          "studentName": "Fahriddin Hayitov",
+          "period": "2024-07-01 to 2024-09-15",
+          "status": "completed",
+          "professorFeedback": "Delivered predictive maintenance model.",
+          "companyFeedback": "Strong research mindset and teamwork."
+        }
+      ],
+      "canSeeCompanyVacancies": true,
+      "canRecommendStudentToCompany": true,
+      "supervisedInternshipsCount": 15,
+      "averageCompanyRatingOfSupervisedStudents": 4.8
+    },
+    "permissions": {
+      "viewStudents": "own_faculty",
+      "rateStudents": true,
+      "writeRecommendations": true,
+      "seeIndustryFeedback": true,
+      "manageEvents": true
+    }
+  }
+]
