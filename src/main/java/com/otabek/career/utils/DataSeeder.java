@@ -2,17 +2,14 @@ package com.otabek.career.utils;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.otabek.career.entity.Professor;
-import com.otabek.career.entity.Staff;
-import com.otabek.career.entity.Student;
-import com.otabek.career.repository.ProfessorRepository;
-import com.otabek.career.repository.StaffRepository;
-import com.otabek.career.repository.StudentRepository;
+import com.otabek.career.entity.*;
+import com.otabek.career.repository.*;
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
 import java.io.InputStream;
+import java.time.LocalDate;
 import java.util.List;
 import java.util.Map;
 
@@ -24,6 +21,8 @@ public class DataSeeder implements CommandLineRunner {
     private final ObjectMapper objectMapper;
     private final StaffRepository staffRepository;
     private final ProfessorRepository professorRepository;
+    private final JobRepository jobRepository;
+    private final IndustryRepository industryRepository;
 
     @Override
     public void run(String... args) throws Exception {
@@ -101,6 +100,63 @@ public class DataSeeder implements CommandLineRunner {
 
             professorRepository.saveAll(professors);
             System.out.println("Saved " + professors.size() + " professors.");
+        }
+        if (jobRepository.count() == 0) {
+            InputStream is = TypeReference.class.getResourceAsStream("/data/jobs.json");
+            List<Map<String, Object>> jsonList = objectMapper.readValue(is, new TypeReference<List<Map<String, Object>>>(){});
+
+            List<Job> jobs = jsonList.stream()
+                    .map(json -> {
+                        Job j = new Job();
+                        j.setId((String) json.get("id"));
+                        j.setTitle((String) json.get("title"));
+                        j.setCompany((String) json.get("company"));
+                        j.setType((String) json.get("type"));
+                        j.setSchedule((String) json.get("schedule"));
+                        j.setLocation((String) json.get("location"));
+
+                        if (json.get("postedDate") != null) {
+                            j.setPostedDate(LocalDate.parse((String) json.get("postedDate")));
+                        }
+                        if (json.get("deadline") != null) {
+                            j.setDeadline(LocalDate.parse((String) json.get("deadline")));
+                        }
+
+                        j.setData(json);
+                        return j;
+                    })
+                    .toList();
+
+            jobRepository.saveAll(jobs);
+            System.out.println("✅ Saved " + jobs.size() + " jobs.");
+        }
+        if (industryRepository.count() == 0) {
+            System.out.println("🌱 Seeding Industries...");
+            InputStream is = TypeReference.class.getResourceAsStream("/data/industry.json");
+            List<Map<String, Object>> jsonList = objectMapper.readValue(is, new TypeReference<List<Map<String, Object>>>(){});
+
+            List<IndustryPartner> partners = jsonList.stream()
+                    .map(json -> {
+                        IndustryPartner p = new IndustryPartner();
+                        p.setId((String) json.get("id"));
+                        System.out.println("ID     "+p.getId());
+                        p.setCompanyName((String) json.get("companyName"));
+                        System.out.println("ContactName     "+p.getContactName());
+                        p.setContactName((String) json.get("contactName"));
+                        p.setEmail((String) json.get("email"));
+
+                        Object areas = json.get("focusAreas");
+                        if (areas instanceof List) {
+                            p.setFocusAreas((List<String>) areas);
+                        }
+
+                        p.setData(json);
+                        return p;
+                    })
+                    .toList();
+
+            industryRepository.saveAll(partners);
+            System.out.println("✅ Saved " + partners.size() + " partners.");
         }
     }
 

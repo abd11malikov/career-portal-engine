@@ -1,0 +1,1461 @@
+[
+  {
+    "id": "industry-1",
+    "companyName": "Artel Electronics",
+    "contactName": "HR Department",
+    "email": "hr@artel.uz",
+    "phone": "+998 71 200 00 00",
+    "location": "Tashkent, Uzbekistan",
+    "website": "https://artelgroup.com",
+    "companyLogo": "photos/Industry_photo/Artel-01.png",
+    "focusAreas": [
+      "Manufacturing",
+      "Electronics"
+    ],
+    "opportunitiesPosted": 20,
+    "tier": "gold",
+    "createdAt": "2025-08-27T08:41:00.750Z",
+    "updatedAt": "2025-09-21T17:20:38.409Z",
+    "notes": "Artel HR partners with NewUU for internship and hiring programs."
+  },
+  {
+    "id": "industry-legacy",
+    "companyName": "Global Talent Partners",
+    "contactName": "Industry Liaison",
+    "email": "industry@company.com",
+    "phone": "1-546-896-4889 x1780",
+    "location": "Bowling Green, Cape Verde",
+    "website": "https://inferior-reorganisation.org/",
+    "focusAreas": [
+      "Manufacturing",
+      "Education"
+    ],
+    "opportunitiesPosted": 12,
+    "tier": "silver",
+    "createdAt": "2024-04-12T08:00:00.000Z",
+    "updatedAt": "2025-10-01T12:00:00.000Z",
+    "notes": "Legacy demo partner for testing interview flows."
+  },
+  {
+    "id": "industry-2",
+    "companyName": "Hegmann - Jakubowski",
+    "contactName": "Edna Green",
+    "email": "johnathon.oconnell@company.com",
+    "phone": "1-552-510-0674",
+    "location": "East Fred, Bonaire, Sint Eustatius and Saba",
+    "website": "https://natural-sport.info",
+    "focusAreas": [
+      "Software",
+      "Education"
+    ],
+    "opportunitiesPosted": 15,
+    "tier": "gold",
+    "createdAt": "2025-07-22T05:38:28.447Z",
+    "updatedAt": "2025-11-06T06:10:45.677Z",
+    "notes": "Comburo tabesco thermae deficio utrimque cruciamentum tubineus caelum advoco."
+  },
+  {
+    "id": "industry-3",
+    "companyName": "Bechtelar LLC",
+    "contactName": "Percy Bogisich",
+    "email": "earlene9@company.com",
+    "phone": "599.462.4696 x3338",
+    "location": "Ratkeshire, Norway",
+    "website": "https://ultimate-creator.biz/",
+    "focusAreas": [
+      "Energy",
+      "Manufacturing"
+    ],
+    "opportunitiesPosted": 13,
+    "tier": "silver",
+    "createdAt": "2023-02-17T12:39:21.386Z",
+    "updatedAt": "2025-09-20T22:35:53.494Z",
+    "notes": "Demoror tantillus bardus."
+  },
+  {
+    "id": "industry-4",
+    "companyName": "O'Conner, Hirthe and Mohr",
+    "contactName": "Genevieve Sporer",
+    "email": "jonatan_hoppe@company.com",
+    "phone": "1-753-969-0956",
+    "location": "Lake Thelma, Botswana",
+    "website": "https://male-fun.com",
+    "focusAreas": [
+      "Energy",
+      "Education"
+    ],
+    "opportunitiesPosted": 17,
+    "tier": "silver",
+    "createdAt": "2023-09-29T10:17:46.092Z",
+    "updatedAt": "2025-10-28T20:17:52.271Z",
+    "notes": "Delectus admoneo somniculosus suffoco esse admoveo culpo contra."
+  },
+  {
+    "id": "industry-5",
+    "companyName": "Wuckert Inc",
+    "contactName": "Joyce Thompson MD",
+    "email": "anabelle96@company.com",
+    "phone": "1-870-416-3836 x40222",
+    "location": "San Diego, Azerbaijan",
+    "website": "https://enchanted-atrium.name",
+    "focusAreas": [
+      "AI",
+      "Software"
+    ],
+    "opportunitiesPosted": 2,
+    "tier": "silver",
+    "createdAt": "2025-05-26T10:35:46.334Z",
+    "updatedAt": "2025-10-09T09:41:16.298Z",
+    "notes": "Veniam facere volva conitor stella."
+  },
+  {
+    "id": "industry-6",
+    "companyName": "Fritsch and Sons",
+    "contactName": "Cristina McCullough",
+    "email": "sidney.emard@company.com",
+    "phone": "1-745-893-9626 x8846",
+    "location": "Theronstad, Nicaragua",
+    "website": "https://impure-approach.com/",
+    "focusAreas": [
+      "AI",
+      "Manufacturing"
+    ],
+    "opportunitiesPosted": 4,
+    "tier": "gold",
+    "createdAt": "2025-09-29T13:40:55.699Z",
+    "updatedAt": "2025-10-24T23:05:29.932Z",
+    "notes": "Venia clam adipisci."
+  },
+  {
+    "id": "industry-7",
+    "companyName": "Haag - Beer",
+    "contactName": "Jared Gorczany II",
+    "email": "kylee.jast8@company.com",
+    "phone": "1-627-201-4027 x331",
+    "location": "West Nathaniel, Slovakia",
+    "website": "https://svelte-pleasure.net/",
+    "focusAreas": [
+      "Education",
+      "AI"
+    ],
+    "opportunitiesPosted": 19,
+    "tier": "gold",
+    "createdAt": "2024-06-22T14:12:30.642Z",
+    "updatedAt": "2025-10-18T20:44:45.700Z",
+    "notes": "Viduo vero corporis tabesco omnis tego vesper decumbo decimus."
+  },
+  {
+    "id": "industry-8",
+    "companyName": "Lesch LLC",
+    "contactName": "Bob Morar",
+    "email": "silas.gerhold@company.com",
+    "phone": "564-508-3930 x7789",
+    "location": "Cristalhaven, Saint Lucia",
+    "website": "https://nutritious-brief.info/",
+    "focusAreas": [
+      "Manufacturing",
+      "Software"
+    ],
+    "opportunitiesPosted": 14,
+    "tier": "gold",
+    "createdAt": "2024-01-10T06:51:16.763Z",
+    "updatedAt": "2025-10-06T14:48:02.590Z",
+    "notes": "Pecus mollitia vorago doloremque carpo."
+  },
+  {
+    "id": "industry-9",
+    "companyName": "Champlin LLC",
+    "contactName": "Shannon Witting",
+    "email": "una50@company.com",
+    "phone": "289-364-5631 x536",
+    "location": "Kshlerinfort, French Polynesia",
+    "website": "https://dramatic-fork.net/",
+    "focusAreas": [
+      "Education",
+      "FinTech"
+    ],
+    "opportunitiesPosted": 14,
+    "tier": "platinum",
+    "createdAt": "2023-10-10T03:38:21.292Z",
+    "updatedAt": "2025-09-29T22:33:14.956Z",
+    "notes": "Thema degusto audacia adeo."
+  },
+  {
+    "id": "industry-10",
+    "companyName": "Bosco - Batz",
+    "contactName": "Eric Schimmel",
+    "email": "maynard.abernathy@company.com",
+    "phone": "324-547-7558 x30312",
+    "location": "Roobchester, El Salvador",
+    "website": "https://troubled-steeple.biz/",
+    "focusAreas": [
+      "Energy",
+      "AI"
+    ],
+    "opportunitiesPosted": 2,
+    "tier": "gold",
+    "createdAt": "2023-12-19T10:32:16.013Z",
+    "updatedAt": "2025-11-10T22:26:48.320Z",
+    "notes": "Excepturi atque ceno aegre."
+  },
+  {
+    "id": "industry-11",
+    "companyName": "Blanda - Beer",
+    "contactName": "Dr. Percy Wolf",
+    "email": "manley_crooks@company.com",
+    "phone": "(751) 801-9416 x10105",
+    "location": "Port Henrietteton, South Africa",
+    "website": "https://outlying-popularity.net/",
+    "focusAreas": [
+      "Education",
+      "Manufacturing"
+    ],
+    "opportunitiesPosted": 9,
+    "tier": "platinum",
+    "createdAt": "2023-01-13T10:27:26.355Z",
+    "updatedAt": "2025-11-13T15:47:02.295Z",
+    "notes": "Carpo vicinus toties exercitationem consequuntur ascit damno ago umerus."
+  },
+  {
+    "id": "industry-12",
+    "companyName": "Leannon, Bahringer and Stroman",
+    "contactName": "Lila Haag",
+    "email": "maryjane_quitzon13@company.com",
+    "phone": "932-234-7792",
+    "location": "South Randi, Macao",
+    "website": "https://extroverted-slide.biz",
+    "focusAreas": [
+      "Software",
+      "FinTech"
+    ],
+    "opportunitiesPosted": 10,
+    "tier": "silver",
+    "createdAt": "2025-01-12T04:29:09.142Z",
+    "updatedAt": "2025-10-17T21:37:52.270Z",
+    "notes": "Appello caput decor crebro."
+  },
+  {
+    "id": "industry-13",
+    "companyName": "Mayert, Simonis and Gulgowski",
+    "contactName": "Edwin Mayert",
+    "email": "johann_wunsch@company.com",
+    "phone": "(527) 260-6610 x0835",
+    "location": "Pfannerstillfort, Sao Tome and Principe",
+    "website": "https://torn-sauerkraut.biz/",
+    "focusAreas": [
+      "Software",
+      "Education"
+    ],
+    "opportunitiesPosted": 2,
+    "tier": "bronze",
+    "createdAt": "2024-06-13T00:49:26.775Z",
+    "updatedAt": "2025-11-05T06:44:01.917Z",
+    "notes": "Aurum apparatus cur."
+  },
+  {
+    "id": "industry-14",
+    "companyName": "Armstrong - Fritsch",
+    "contactName": "Sheila Schaefer",
+    "email": "corbin_kirlin-moen78@company.com",
+    "phone": "(912) 959-2075",
+    "location": "Faheyfurt, Benin",
+    "website": "https://flickering-redesign.biz/",
+    "focusAreas": [
+      "Education",
+      "FinTech"
+    ],
+    "opportunitiesPosted": 3,
+    "tier": "gold",
+    "createdAt": "2025-02-13T22:39:54.190Z",
+    "updatedAt": "2025-10-20T17:21:39.668Z",
+    "notes": "Sequi cotidie articulus."
+  },
+  {
+    "id": "industry-15",
+    "companyName": "Runte - Muller",
+    "contactName": "Jacquelyn Kozey",
+    "email": "lesly91@company.com",
+    "phone": "776-751-1755 x490",
+    "location": "New Tre, Switzerland",
+    "website": "https://far-someplace.biz",
+    "focusAreas": [
+      "AI",
+      "Software"
+    ],
+    "opportunitiesPosted": 19,
+    "tier": "gold",
+    "createdAt": "2023-07-03T19:53:03.915Z",
+    "updatedAt": "2025-11-01T04:48:33.218Z",
+    "notes": "Vomer nobis acidus."
+  },
+  {
+    "id": "industry-16",
+    "companyName": "Fadel - Cronin",
+    "contactName": "Dr. Jonathan Wilkinson",
+    "email": "orpha.huel2@company.com",
+    "phone": "(979) 892-6787",
+    "location": "Lake Cecilville, New Caledonia",
+    "website": "https://fake-velocity.info/",
+    "focusAreas": [
+      "AI",
+      "Education"
+    ],
+    "opportunitiesPosted": 19,
+    "tier": "bronze",
+    "createdAt": "2024-05-28T16:09:02.676Z",
+    "updatedAt": "2025-09-17T16:07:54.948Z",
+    "notes": "Vomito balbus cohibeo blandior."
+  },
+  {
+    "id": "industry-17",
+    "companyName": "Hoppe - Lind",
+    "contactName": "Delores Spencer",
+    "email": "otha.gibson59@company.com",
+    "phone": "906-841-4505",
+    "location": "East Jeradview, Ghana",
+    "website": "https://homely-deployment.name",
+    "focusAreas": [
+      "Software",
+      "FinTech"
+    ],
+    "opportunitiesPosted": 0,
+    "tier": "silver",
+    "createdAt": "2023-04-07T22:31:36.590Z",
+    "updatedAt": "2025-11-01T08:47:10.880Z",
+    "notes": "Provident umquam somniculosus accommodo cursus."
+  },
+  {
+    "id": "industry-18",
+    "companyName": "Osinski Group",
+    "contactName": "Lucas Dicki",
+    "email": "angeline8@company.com",
+    "phone": "951.715.8374 x214",
+    "location": "Donnellyside, Cuba",
+    "website": "https://devoted-archaeology.org/",
+    "focusAreas": [
+      "Software",
+      "FinTech"
+    ],
+    "opportunitiesPosted": 25,
+    "tier": "silver",
+    "createdAt": "2025-09-22T01:02:33.635Z",
+    "updatedAt": "2025-11-13T05:23:58.409Z",
+    "notes": "Unus spoliatio fugit totam constans."
+  },
+  {
+    "id": "industry-19",
+    "companyName": "Streich, Little and Konopelski",
+    "contactName": "Dr. Joel Barton",
+    "email": "ernestine.frami-mckenzie@company.com",
+    "phone": "281-701-6859 x05825",
+    "location": "East Andy, Lesotho",
+    "website": "https://brown-luck.net",
+    "focusAreas": [
+      "Software",
+      "Education"
+    ],
+    "opportunitiesPosted": 4,
+    "tier": "platinum",
+    "createdAt": "2024-03-04T03:50:30.459Z",
+    "updatedAt": "2025-10-23T07:09:18.137Z",
+    "notes": "Cras cupio decor."
+  },
+  {
+    "id": "industry-20",
+    "companyName": "Zboncak and Sons",
+    "contactName": "Kelli McCullough",
+    "email": "conrad.gulgowski9@company.com",
+    "phone": "905-423-6016",
+    "location": "Kingland, Seychelles",
+    "website": "https://any-onset.net",
+    "focusAreas": [
+      "AI",
+      "Energy"
+    ],
+    "opportunitiesPosted": 16,
+    "tier": "gold",
+    "createdAt": "2024-08-03T17:29:07.753Z",
+    "updatedAt": "2025-10-27T20:32:50.172Z",
+    "notes": "Verbera id nesciunt cribro tumultus solio statua depulso cenaculum."
+  },
+  {
+    "id": "industry-21",
+    "companyName": "Hayes - Grady",
+    "contactName": "Tommy Olson",
+    "email": "margret.satterfield86@company.com",
+    "phone": "893-890-9974 x5201",
+    "location": "Stratford, Cocos (Keeling) Islands",
+    "website": "https://cooperative-bid.name",
+    "focusAreas": [
+      "Manufacturing",
+      "AI"
+    ],
+    "opportunitiesPosted": 1,
+    "tier": "platinum",
+    "createdAt": "2023-01-25T21:33:39.450Z",
+    "updatedAt": "2025-10-28T09:18:37.742Z",
+    "notes": "Ceno coepi fuga culpo appello abeo cultura atrox basium."
+  },
+  {
+    "id": "industry-22",
+    "companyName": "Mertz, Legros and Greenfelder",
+    "contactName": "Rosemarie Gulgowski",
+    "email": "augusta.cartwright@company.com",
+    "phone": "(281) 870-4116 x65731",
+    "location": "Tremaineboro, Vietnam",
+    "website": "https://functional-deduction.name",
+    "focusAreas": [
+      "Energy",
+      "AI"
+    ],
+    "opportunitiesPosted": 18,
+    "tier": "bronze",
+    "createdAt": "2024-08-19T23:00:28.830Z",
+    "updatedAt": "2025-10-05T22:48:02.398Z",
+    "notes": "Sono vulticulus cogo delinquo spoliatio video uter alienus."
+  },
+  {
+    "id": "industry-23",
+    "companyName": "Wolff, Leffler and Mueller",
+    "contactName": "William Runolfsdottir",
+    "email": "lucius.terry@company.com",
+    "phone": "832.601.5902",
+    "location": "Leonieton, Burundi",
+    "website": "https://lavish-status.com/",
+    "focusAreas": [
+      "FinTech",
+      "AI"
+    ],
+    "opportunitiesPosted": 0,
+    "tier": "silver",
+    "createdAt": "2023-12-03T02:28:22.074Z",
+    "updatedAt": "2025-10-19T14:57:26.451Z",
+    "notes": "Cogo cum quas adimpleo voveo succedo eum despecto aggredior temperantia."
+  },
+  {
+    "id": "industry-24",
+    "companyName": "Johnston - Skiles",
+    "contactName": "Vincent Bruen",
+    "email": "ramona8@company.com",
+    "phone": "555-533-1778 x9149",
+    "location": "Fort Landenview, Mozambique",
+    "website": "https://trained-carnival.com/",
+    "focusAreas": [
+      "Education",
+      "Software"
+    ],
+    "opportunitiesPosted": 17,
+    "tier": "bronze",
+    "createdAt": "2024-08-15T19:32:07.403Z",
+    "updatedAt": "2025-10-17T22:14:57.602Z",
+    "notes": "Distinctio sonitus laboriosam tripudio."
+  },
+  {
+    "id": "industry-25",
+    "companyName": "Casper and Sons",
+    "contactName": "Steve McDermott",
+    "email": "lloyd72@company.com",
+    "phone": "788-581-6435 x845",
+    "location": "Jenkinsbury, Guatemala",
+    "website": "https://motionless-advancement.com/",
+    "focusAreas": [
+      "AI",
+      "Software"
+    ],
+    "opportunitiesPosted": 13,
+    "tier": "bronze",
+    "createdAt": "2024-11-29T13:16:45.065Z",
+    "updatedAt": "2025-10-15T20:08:28.518Z",
+    "notes": "Arx concido adeo defungo commodo tardus strenuus collum cariosus atque."
+  },
+  {
+    "id": "industry-26",
+    "companyName": "Johns - Howell",
+    "contactName": "Micheal Walter",
+    "email": "omer.ullrich@company.com",
+    "phone": "513-522-7933",
+    "location": "Niagara Falls, Cape Verde",
+    "website": "https://bitter-jellyfish.info",
+    "focusAreas": [
+      "AI",
+      "Education"
+    ],
+    "opportunitiesPosted": 22,
+    "tier": "platinum",
+    "createdAt": "2025-01-27T14:44:52.994Z",
+    "updatedAt": "2025-10-03T05:44:42.974Z",
+    "notes": "Thorax agnitio terra."
+  },
+  {
+    "id": "industry-27",
+    "companyName": "Davis, Haag and Borer",
+    "contactName": "Raquel Mueller",
+    "email": "lina_borer62@company.com",
+    "phone": "1-559-815-2060 x33717",
+    "location": "Fisherfurt, Morocco",
+    "website": "https://alive-desk.com/",
+    "focusAreas": [
+      "Software",
+      "AI"
+    ],
+    "opportunitiesPosted": 3,
+    "tier": "gold",
+    "createdAt": "2023-10-13T01:51:43.866Z",
+    "updatedAt": "2025-10-13T03:01:07.918Z",
+    "notes": "Cura nulla vomer cubo socius apto amissio."
+  },
+  {
+    "id": "industry-28",
+    "companyName": "Collier, Haag and Nicolas",
+    "contactName": "Mr. Fredrick Casper",
+    "email": "vivianne33@company.com",
+    "phone": "950.585.1922",
+    "location": "Sipesside, Reunion",
+    "website": "https://cultivated-fireplace.name/",
+    "focusAreas": [
+      "AI",
+      "FinTech"
+    ],
+    "opportunitiesPosted": 1,
+    "tier": "bronze",
+    "createdAt": "2024-07-29T16:19:03.181Z",
+    "updatedAt": "2025-09-23T14:38:21.367Z",
+    "notes": "Coruscus validus vero textus charisma."
+  },
+  {
+    "id": "industry-29",
+    "companyName": "Howe Inc",
+    "contactName": "Marcus Mitchell",
+    "email": "travis_feeney98@company.com",
+    "phone": "264.503.4285",
+    "location": "Laurencestad, Algeria",
+    "website": "https://athletic-accelerator.com",
+    "focusAreas": [
+      "FinTech",
+      "Manufacturing"
+    ],
+    "opportunitiesPosted": 25,
+    "tier": "gold",
+    "createdAt": "2024-04-27T16:50:57.669Z",
+    "updatedAt": "2025-09-21T15:43:49.133Z",
+    "notes": "Apostolus verbera auditor utilis amet alius acies vis aduro."
+  },
+  {
+    "id": "industry-30",
+    "companyName": "Mertz Inc",
+    "contactName": "Brandon Bode",
+    "email": "orlo67@company.com",
+    "phone": "487.779.1391",
+    "location": "Lillastead, Algeria",
+    "website": "https://trivial-whale.com",
+    "focusAreas": [
+      "AI",
+      "Education"
+    ],
+    "opportunitiesPosted": 10,
+    "tier": "gold",
+    "createdAt": "2023-01-29T13:40:14.968Z",
+    "updatedAt": "2025-11-08T12:18:17.340Z",
+    "notes": "Tollo fugit vesco cado cruciamentum."
+  },
+  {
+    "id": "industry-31",
+    "companyName": "Rohan, Donnelly and Bernier",
+    "contactName": "Elijah Cummerata",
+    "email": "eleanora86@company.com",
+    "phone": "661.655.1326 x0690",
+    "location": "West Georgianna, Guyana",
+    "website": "https://well-off-starboard.org/",
+    "focusAreas": [
+      "Education",
+      "Software"
+    ],
+    "opportunitiesPosted": 18,
+    "tier": "bronze",
+    "createdAt": "2025-04-06T09:44:28.127Z",
+    "updatedAt": "2025-11-03T06:01:18.820Z",
+    "notes": "Aspernatur administratio similique vallum thymbra distinctio."
+  },
+  {
+    "id": "industry-32",
+    "companyName": "Kutch - Yundt",
+    "contactName": "Tanya Koch",
+    "email": "destiney61@company.com",
+    "phone": "1-588-296-0618 x0087",
+    "location": "Swaniawskifield, San Marino",
+    "website": "https://fruitful-fax.net",
+    "focusAreas": [
+      "AI",
+      "Energy"
+    ],
+    "opportunitiesPosted": 9,
+    "tier": "gold",
+    "createdAt": "2023-12-09T05:48:15.934Z",
+    "updatedAt": "2025-10-12T14:45:13.029Z",
+    "notes": "Tricesimus confugo crudelis depromo argentum."
+  },
+  {
+    "id": "industry-33",
+    "companyName": "Hansen, D'Amore and Abshire",
+    "contactName": "Kenny Hegmann",
+    "email": "freeda5@company.com",
+    "phone": "1-248-478-6334 x300",
+    "location": "Eliezerview, Virgin Islands, U.S.",
+    "website": "https://winged-hyphenation.biz/",
+    "focusAreas": [
+      "Education",
+      "Manufacturing"
+    ],
+    "opportunitiesPosted": 13,
+    "tier": "gold",
+    "createdAt": "2023-05-28T19:00:04.050Z",
+    "updatedAt": "2025-09-25T16:11:55.702Z",
+    "notes": "Sol trado error tenax abutor impedit cicuta adnuo laudantium."
+  },
+  {
+    "id": "industry-34",
+    "companyName": "Homenick and Sons",
+    "contactName": "Lee Lubowitz",
+    "email": "nathan.braun@company.com",
+    "phone": "(790) 642-1671 x7023",
+    "location": "DeKalb, Bouvet Island",
+    "website": "https://new-bidet.name",
+    "focusAreas": [
+      "Education",
+      "AI"
+    ],
+    "opportunitiesPosted": 13,
+    "tier": "gold",
+    "createdAt": "2024-05-15T20:00:59.248Z",
+    "updatedAt": "2025-10-06T04:08:17.630Z",
+    "notes": "Fuga thymbra despecto."
+  },
+  {
+    "id": "industry-35",
+    "companyName": "Mitchell LLC",
+    "contactName": "Miss Annie Stanton-Wisoky",
+    "email": "charley_walsh@company.com",
+    "phone": "579-452-1760 x35682",
+    "location": "Artport, Bosnia and Herzegovina",
+    "website": "https://boiling-yeast.com/",
+    "focusAreas": [
+      "FinTech",
+      "Education"
+    ],
+    "opportunitiesPosted": 25,
+    "tier": "silver",
+    "createdAt": "2023-12-20T03:01:43.642Z",
+    "updatedAt": "2025-10-26T10:09:20.491Z",
+    "notes": "Autem suppono sublime paulatim amplitudo."
+  },
+  {
+    "id": "industry-36",
+    "companyName": "Bogan Inc",
+    "contactName": "Mr. Darrin Osinski DDS",
+    "email": "tristian.hermann2@company.com",
+    "phone": "1-769-674-0970",
+    "location": "VonRuedenburgh, Guinea-Bissau",
+    "website": "https://lucky-sport.com",
+    "focusAreas": [
+      "Education",
+      "FinTech"
+    ],
+    "opportunitiesPosted": 15,
+    "tier": "bronze",
+    "createdAt": "2023-08-18T19:45:35.407Z",
+    "updatedAt": "2025-11-04T21:36:26.694Z",
+    "notes": "Custodia desidero calamitas minima credo subvenio articulus."
+  },
+  {
+    "id": "industry-37",
+    "companyName": "Boyer - Hilpert",
+    "contactName": "Ismael Lindgren",
+    "email": "geoffrey_russel20@company.com",
+    "phone": "(462) 635-1170 x12245",
+    "location": "Vonburgh, Curacao",
+    "website": "https://juvenile-drive.name/",
+    "focusAreas": [
+      "Energy",
+      "Software"
+    ],
+    "opportunitiesPosted": 1,
+    "tier": "gold",
+    "createdAt": "2025-01-08T18:57:45.489Z",
+    "updatedAt": "2025-11-08T05:08:00.136Z",
+    "notes": "Eveniet trans curia."
+  },
+  {
+    "id": "industry-38",
+    "companyName": "Daugherty and Sons",
+    "contactName": "Angela Murray",
+    "email": "kolby88@company.com",
+    "phone": "267.761.5614 x529",
+    "location": "Lake Margotworth, Mozambique",
+    "website": "https://inconsequential-newsstand.com",
+    "focusAreas": [
+      "FinTech",
+      "Software"
+    ],
+    "opportunitiesPosted": 6,
+    "tier": "silver",
+    "createdAt": "2025-02-07T12:04:27.152Z",
+    "updatedAt": "2025-10-09T23:54:33.557Z",
+    "notes": "Tabernus ullam alveus vapulus certus."
+  },
+  {
+    "id": "industry-39",
+    "companyName": "Mraz, Botsford and Blanda",
+    "contactName": "Emmett Hayes",
+    "email": "barry.ratke@company.com",
+    "phone": "(396) 861-0961 x008",
+    "location": "Port Charlotte, Timor-Leste",
+    "website": "https://trim-newsstand.info/",
+    "focusAreas": [
+      "AI",
+      "Education"
+    ],
+    "opportunitiesPosted": 18,
+    "tier": "gold",
+    "createdAt": "2025-02-06T01:18:25.745Z",
+    "updatedAt": "2025-10-07T06:41:05.623Z",
+    "notes": "Callide quasi centum adimpleo colligo creber placeat bibo."
+  },
+  {
+    "id": "industry-40",
+    "companyName": "Barton - Schuppe",
+    "contactName": "Irving Dare IV",
+    "email": "leonie_hammes11@company.com",
+    "phone": "935.942.1857",
+    "location": "Georgetown, Poland",
+    "website": "https://supportive-issue.biz",
+    "focusAreas": [
+      "FinTech",
+      "Education"
+    ],
+    "opportunitiesPosted": 25,
+    "tier": "gold",
+    "createdAt": "2023-03-08T16:13:00.728Z",
+    "updatedAt": "2025-09-16T08:02:39.540Z",
+    "notes": "Vinculum tonsor tres temptatio."
+  },
+  {
+    "id": "industry-41",
+    "companyName": "Parisian - Marvin",
+    "contactName": "Kristen Klocko",
+    "email": "merl.fadel@company.com",
+    "phone": "906.468.4540 x10448",
+    "location": "Port Cierra, Cambodia",
+    "website": "https://simplistic-publicity.name/",
+    "focusAreas": [
+      "Energy",
+      "FinTech"
+    ],
+    "opportunitiesPosted": 15,
+    "tier": "platinum",
+    "createdAt": "2025-01-21T06:41:51.910Z",
+    "updatedAt": "2025-10-02T18:13:39.573Z",
+    "notes": "Cruciamentum aetas amplexus volva est bene optio."
+  },
+  {
+    "id": "industry-42",
+    "companyName": "Murray Inc",
+    "contactName": "Gilbert Schuppe",
+    "email": "glenda_batz63@company.com",
+    "phone": "877-887-2845",
+    "location": "Jodiebury, Madagascar",
+    "website": "https://turbulent-quinoa.org/",
+    "focusAreas": [
+      "Software",
+      "Education"
+    ],
+    "opportunitiesPosted": 15,
+    "tier": "silver",
+    "createdAt": "2023-01-06T06:32:55.962Z",
+    "updatedAt": "2025-09-17T10:39:04.538Z",
+    "notes": "Adfero tamisium cultellus saepe."
+  },
+  {
+    "id": "industry-43",
+    "companyName": "Crona - Marvin",
+    "contactName": "Erma Morar",
+    "email": "maximilian_tromp78@company.com",
+    "phone": "1-967-866-7876 x808",
+    "location": "Walterton, Saint Martin",
+    "website": "https://personal-grouper.org",
+    "focusAreas": [
+      "Software",
+      "AI"
+    ],
+    "opportunitiesPosted": 14,
+    "tier": "gold",
+    "createdAt": "2023-06-20T18:10:35.507Z",
+    "updatedAt": "2025-11-05T10:41:59.827Z",
+    "notes": "Sodalitas taceo consectetur cubicularis derideo casso tendo solitudo degero ventosus."
+  },
+  {
+    "id": "industry-44",
+    "companyName": "Dickinson, Abernathy and Tillman",
+    "contactName": "Nelson Morar",
+    "email": "charley1@company.com",
+    "phone": "768.338.5380",
+    "location": "Fort Louisa, Niger",
+    "website": "https://carefree-sustenance.org/",
+    "focusAreas": [
+      "AI",
+      "Energy"
+    ],
+    "opportunitiesPosted": 20,
+    "tier": "gold",
+    "createdAt": "2022-12-03T14:18:40.375Z",
+    "updatedAt": "2025-10-29T13:53:38.094Z",
+    "notes": "Trans sequi quam commemoro vestrum rerum viduo."
+  },
+  {
+    "id": "industry-45",
+    "companyName": "Howe - Nitzsche",
+    "contactName": "Van Gleichner",
+    "email": "mckenna.langworth99@company.com",
+    "phone": "(321) 923-8693 x35802",
+    "location": "Bobbiechester, Netherlands",
+    "website": "https://squeaky-repeat.net/",
+    "focusAreas": [
+      "Energy",
+      "FinTech"
+    ],
+    "opportunitiesPosted": 8,
+    "tier": "silver",
+    "createdAt": "2025-05-20T08:36:05.222Z",
+    "updatedAt": "2025-09-17T03:04:28.293Z",
+    "notes": "Vox tenax repellat degero blanditiis blandior vomito curiositas."
+  },
+  {
+    "id": "industry-46",
+    "companyName": "Hackett, Torphy and DuBuque",
+    "contactName": "Lola Blick",
+    "email": "britney_crona53@company.com",
+    "phone": "(311) 976-5546",
+    "location": "Fort Kaelynboro, Uzbekistan",
+    "website": "https://soft-basket.info",
+    "focusAreas": [
+      "AI",
+      "FinTech"
+    ],
+    "opportunitiesPosted": 3,
+    "tier": "silver",
+    "createdAt": "2025-02-22T00:27:28.531Z",
+    "updatedAt": "2025-11-09T11:18:16.218Z",
+    "notes": "Crapula stella aqua celebrer placeat ascit."
+  },
+  {
+    "id": "industry-47",
+    "companyName": "Carroll Inc",
+    "contactName": "Allan Runolfsson",
+    "email": "kobe.berge53@company.com",
+    "phone": "864.555.2225 x118",
+    "location": "Marinaboro, Uruguay",
+    "website": "https://eminent-markup.net",
+    "focusAreas": [
+      "Manufacturing",
+      "Software"
+    ],
+    "opportunitiesPosted": 18,
+    "tier": "silver",
+    "createdAt": "2024-03-08T15:49:48.817Z",
+    "updatedAt": "2025-10-22T22:45:46.627Z",
+    "notes": "Vito adnuo comprehendo."
+  },
+  {
+    "id": "industry-48",
+    "companyName": "Kirlin - Hackett",
+    "contactName": "Carla Hirthe",
+    "email": "tito51@company.com",
+    "phone": "1-907-845-9956",
+    "location": "Jordiport, Algeria",
+    "website": "https://juicy-availability.com/",
+    "focusAreas": [
+      "FinTech",
+      "AI"
+    ],
+    "opportunitiesPosted": 14,
+    "tier": "bronze",
+    "createdAt": "2023-04-23T03:59:41.993Z",
+    "updatedAt": "2025-10-20T17:49:34.946Z",
+    "notes": "Quas demulceo usus urbs dicta."
+  },
+  {
+    "id": "industry-49",
+    "companyName": "Hand, Parisian and Oberbrunner",
+    "contactName": "Joe Wintheiser DDS",
+    "email": "wilma.konopelski@company.com",
+    "phone": "247.250.0195",
+    "location": "Gibsonburgh, Mongolia",
+    "website": "https://possible-lobster.biz",
+    "focusAreas": [
+      "Energy",
+      "FinTech"
+    ],
+    "opportunitiesPosted": 2,
+    "tier": "gold",
+    "createdAt": "2024-09-18T04:10:39.004Z",
+    "updatedAt": "2025-09-23T02:35:18.581Z",
+    "notes": "Cohaero capitulus molestias."
+  },
+  {
+    "id": "industry-50",
+    "companyName": "Swaniawski, McCullough and Hermiston",
+    "contactName": "Tracey Hettinger",
+    "email": "clotilde.bradtke@company.com",
+    "phone": "532-470-6470 x0205",
+    "location": "Lake Princeberg, Montenegro",
+    "website": "https://bright-castanet.org/",
+    "focusAreas": [
+      "Education",
+      "Energy"
+    ],
+    "opportunitiesPosted": 4,
+    "tier": "silver",
+    "createdAt": "2024-03-24T20:53:10.141Z",
+    "updatedAt": "2025-10-21T02:48:27.179Z",
+    "notes": "Virtus consequuntur laudantium delicate cogo."
+  },
+  {
+    "id": "industry-51",
+    "companyName": "Wilderman - Durgan",
+    "contactName": "Omar Walsh Sr.",
+    "email": "eva50@company.com",
+    "phone": "1-230-490-9354",
+    "location": "Corpus Christi, India",
+    "website": "https://scientific-majority.com/",
+    "focusAreas": [
+      "AI",
+      "Manufacturing"
+    ],
+    "opportunitiesPosted": 3,
+    "tier": "platinum",
+    "createdAt": "2024-08-21T01:32:28.545Z",
+    "updatedAt": "2025-10-27T00:08:16.497Z",
+    "notes": "Custodia aspernatur depraedor tredecim arto terminatio."
+  },
+  {
+    "id": "industry-52",
+    "companyName": "Heller and Sons",
+    "contactName": "Ms. Kim Kuvalis",
+    "email": "herminia.okuneva76@company.com",
+    "phone": "(761) 687-7862 x348",
+    "location": "Heidenreichfort, Mongolia",
+    "website": "https://energetic-cinder.biz",
+    "focusAreas": [
+      "Manufacturing",
+      "Software"
+    ],
+    "opportunitiesPosted": 18,
+    "tier": "bronze",
+    "createdAt": "2025-09-19T01:46:51.175Z",
+    "updatedAt": "2025-11-09T11:21:57.228Z",
+    "notes": "Adeo ait cena acidus sto adeptio."
+  },
+  {
+    "id": "industry-53",
+    "companyName": "Labadie Inc",
+    "contactName": "Jodi Hoeger",
+    "email": "dillon.okeefe@company.com",
+    "phone": "(703) 415-2033 x7365",
+    "location": "Port Lonny, Sri Lanka",
+    "website": "https://broken-scholarship.com/",
+    "focusAreas": [
+      "Manufacturing",
+      "Software"
+    ],
+    "opportunitiesPosted": 16,
+    "tier": "platinum",
+    "createdAt": "2023-05-05T13:34:19.941Z",
+    "updatedAt": "2025-09-30T01:36:06.240Z",
+    "notes": "Blanditiis supellex copia denuo ante desipio."
+  },
+  {
+    "id": "industry-54",
+    "companyName": "Mayer - Lockman",
+    "contactName": "Adrian Sporer",
+    "email": "josefa.bernhard@company.com",
+    "phone": "(768) 530-4857",
+    "location": "Runolfssonboro, Spain",
+    "website": "https://jagged-certification.biz/",
+    "focusAreas": [
+      "Energy",
+      "Education"
+    ],
+    "opportunitiesPosted": 23,
+    "tier": "bronze",
+    "createdAt": "2023-11-28T19:03:05.041Z",
+    "updatedAt": "2025-09-15T13:05:37.593Z",
+    "notes": "Caelum arx damnatio benevolentia tristis desparatus aufero celer vesica baiulus."
+  },
+  {
+    "id": "industry-55",
+    "companyName": "Wunsch - Cremin",
+    "contactName": "Miriam Jacobson",
+    "email": "olga.green1@company.com",
+    "phone": "(494) 235-0915 x8659",
+    "location": "St. Joseph, Andorra",
+    "website": "https://lanky-illusion.net",
+    "focusAreas": [
+      "AI",
+      "Education"
+    ],
+    "opportunitiesPosted": 21,
+    "tier": "platinum",
+    "createdAt": "2023-04-04T01:05:46.078Z",
+    "updatedAt": "2025-09-15T19:08:21.774Z",
+    "notes": "Amaritudo ara appello corrigo curvo."
+  },
+  {
+    "id": "industry-56",
+    "companyName": "Hahn and Sons",
+    "contactName": "Wilson Muller",
+    "email": "savanah.collier8@company.com",
+    "phone": "778.407.9057 x647",
+    "location": "Bonitabury, Guyana",
+    "website": "https://intrepid-tomatillo.org",
+    "focusAreas": [
+      "Software",
+      "Manufacturing"
+    ],
+    "opportunitiesPosted": 23,
+    "tier": "platinum",
+    "createdAt": "2025-01-28T03:17:44.853Z",
+    "updatedAt": "2025-11-07T07:24:18.046Z",
+    "notes": "Conor vox eveniet unus provident audio pauper barba."
+  },
+  {
+    "id": "industry-57",
+    "companyName": "Dach Group",
+    "contactName": "Josefina Wyman V",
+    "email": "arden21@company.com",
+    "phone": "1-217-478-2273 x7624",
+    "location": "Schneiderstead, Guinea-Bissau",
+    "website": "https://faraway-expansion.net",
+    "focusAreas": [
+      "Energy",
+      "Manufacturing"
+    ],
+    "opportunitiesPosted": 18,
+    "tier": "gold",
+    "createdAt": "2023-10-25T17:25:50.699Z",
+    "updatedAt": "2025-10-16T22:23:34.781Z",
+    "notes": "Degusto vorago thesis vomer auditor talus."
+  },
+  {
+    "id": "industry-58",
+    "companyName": "Veum Group",
+    "contactName": "Mr. Leonard Macejkovic Sr.",
+    "email": "akeem.leannon@company.com",
+    "phone": "1-454-211-8985 x1933",
+    "location": "Kayleeborough, Pitcairn Islands",
+    "website": "https://superb-tail.name",
+    "focusAreas": [
+      "Energy",
+      "Education"
+    ],
+    "opportunitiesPosted": 6,
+    "tier": "bronze",
+    "createdAt": "2024-03-28T08:53:29.106Z",
+    "updatedAt": "2025-10-24T13:57:58.929Z",
+    "notes": "Substantia tabesco aestivus cum colligo cupiditas."
+  },
+  {
+    "id": "industry-59",
+    "companyName": "McKenzie - Wuckert",
+    "contactName": "Marjorie Price",
+    "email": "keenan88@company.com",
+    "phone": "496.419.6519 x764",
+    "location": "Tonawanda, Russian Federation",
+    "website": "https://some-hospitalization.biz",
+    "focusAreas": [
+      "Education",
+      "Software"
+    ],
+    "opportunitiesPosted": 13,
+    "tier": "silver",
+    "createdAt": "2024-02-09T19:56:10.963Z",
+    "updatedAt": "2025-09-24T01:03:49.417Z",
+    "notes": "Cur charisma bene sortitus universe demens armarium tero tempora conservo."
+  },
+  {
+    "id": "industry-60",
+    "companyName": "Parisian, Kertzmann and Gleason",
+    "contactName": "Jimmy Conn MD",
+    "email": "hilda.glover@company.com",
+    "phone": "(995) 492-9811 x0163",
+    "location": "Raquelmouth, Mayotte",
+    "website": "https://moist-jet.com/",
+    "focusAreas": [
+      "AI",
+      "FinTech"
+    ],
+    "opportunitiesPosted": 4,
+    "tier": "platinum",
+    "createdAt": "2023-06-06T10:48:58.362Z",
+    "updatedAt": "2025-11-01T15:41:27.473Z",
+    "notes": "Comptus ascisco arto taceo adamo."
+  },
+  {
+    "id": "industry-61",
+    "companyName": "McDermott - Bradtke",
+    "contactName": "Chris Hauck",
+    "email": "nickolas_boyle@company.com",
+    "phone": "349.384.8416 x4099",
+    "location": "Millerstead, Nicaragua",
+    "website": "https://purple-zen.biz/",
+    "focusAreas": [
+      "AI",
+      "FinTech"
+    ],
+    "opportunitiesPosted": 4,
+    "tier": "bronze",
+    "createdAt": "2023-03-28T02:51:28.003Z",
+    "updatedAt": "2025-09-22T19:26:33.541Z",
+    "notes": "Amitto tener torqueo aurum delibero bellicus voluntarius."
+  },
+  {
+    "id": "industry-62",
+    "companyName": "Kihn, Schinner and Reynolds",
+    "contactName": "Homer Labadie",
+    "email": "lucio99@company.com",
+    "phone": "760.354.0440 x08369",
+    "location": "New Anahiville, Bouvet Island",
+    "website": "https://sorrowful-dividend.com/",
+    "focusAreas": [
+      "AI",
+      "Manufacturing"
+    ],
+    "opportunitiesPosted": 8,
+    "tier": "platinum",
+    "createdAt": "2024-07-31T00:00:50.182Z",
+    "updatedAt": "2025-10-01T22:07:01.715Z",
+    "notes": "Decipio praesentium tabernus vulgivagus approbo advoco bellicus vesper coruscus considero."
+  },
+  {
+    "id": "industry-63",
+    "companyName": "Okuneva - Witting",
+    "contactName": "Lindsay Kirlin",
+    "email": "mckenna_cartwright-king@company.com",
+    "phone": "1-922-837-5087",
+    "location": "North Orlando, Tonga",
+    "website": "https://upset-deed.info",
+    "focusAreas": [
+      "Software",
+      "Manufacturing"
+    ],
+    "opportunitiesPosted": 4,
+    "tier": "platinum",
+    "createdAt": "2023-10-07T11:09:27.855Z",
+    "updatedAt": "2025-11-08T07:18:24.250Z",
+    "notes": "Conforto argumentum sequi theca."
+  },
+  {
+    "id": "industry-64",
+    "companyName": "Hirthe Group",
+    "contactName": "Kay Kris",
+    "email": "maci_heidenreich69@company.com",
+    "phone": "779-950-0683 x55357",
+    "location": "New Myrticeworth, Oman",
+    "website": "https://glum-milestone.biz",
+    "focusAreas": [
+      "Software",
+      "Manufacturing"
+    ],
+    "opportunitiesPosted": 16,
+    "tier": "bronze",
+    "createdAt": "2023-03-12T02:42:51.861Z",
+    "updatedAt": "2025-09-27T20:24:15.931Z",
+    "notes": "Cornu complectus defluo ventus aranea demonstro thesaurus vestigium decens."
+  },
+  {
+    "id": "industry-65",
+    "companyName": "Lowe - Davis",
+    "contactName": "Patricia Cassin",
+    "email": "andreane86@company.com",
+    "phone": "1-458-548-1874 x321",
+    "location": "Aliviacester, Bouvet Island",
+    "website": "https://majestic-acquaintance.com",
+    "focusAreas": [
+      "Software",
+      "Education"
+    ],
+    "opportunitiesPosted": 0,
+    "tier": "bronze",
+    "createdAt": "2023-11-15T14:13:29.652Z",
+    "updatedAt": "2025-09-26T17:45:44.573Z",
+    "notes": "Supra utpote adeptio subiungo dedico tabella canto."
+  },
+  {
+    "id": "industry-66",
+    "companyName": "Thiel - Bergnaum",
+    "contactName": "Tom Mills",
+    "email": "jordane_zemlak@company.com",
+    "phone": "1-831-529-3267 x7160",
+    "location": "Severn, Mayotte",
+    "website": "https://square-release.biz",
+    "focusAreas": [
+      "Education",
+      "FinTech"
+    ],
+    "opportunitiesPosted": 24,
+    "tier": "gold",
+    "createdAt": "2023-11-05T10:08:59.396Z",
+    "updatedAt": "2025-10-15T01:09:51.984Z",
+    "notes": "Acer conspergo laudantium fugiat damno alius coerceo."
+  },
+  {
+    "id": "industry-67",
+    "companyName": "Bradtke - Ullrich",
+    "contactName": "Peggy Wisozk MD",
+    "email": "flo_gutkowski12@company.com",
+    "phone": "(326) 237-8298 x56626",
+    "location": "Emmyfurt, Latvia",
+    "website": "https://unwilling-digit.net/",
+    "focusAreas": [
+      "Manufacturing",
+      "Energy"
+    ],
+    "opportunitiesPosted": 10,
+    "tier": "platinum",
+    "createdAt": "2023-01-24T13:18:52.298Z",
+    "updatedAt": "2025-11-07T08:34:29.696Z",
+    "notes": "Circumvenio copiose corrumpo vester vomito speciosus acies."
+  },
+  {
+    "id": "industry-68",
+    "companyName": "Strosin, Hilpert and Lakin",
+    "contactName": "Charlie Donnelly",
+    "email": "elena.block-wiza@company.com",
+    "phone": "672-278-3843 x1793",
+    "location": "Catalina Foothills, Congo",
+    "website": "https://pleased-embossing.org",
+    "focusAreas": [
+      "Energy",
+      "Manufacturing"
+    ],
+    "opportunitiesPosted": 3,
+    "tier": "gold",
+    "createdAt": "2025-10-05T17:19:11.505Z",
+    "updatedAt": "2025-09-20T18:15:00.261Z",
+    "notes": "Arbitro officiis tamen."
+  },
+  {
+    "id": "industry-69",
+    "companyName": "Casper, Feest and Raynor",
+    "contactName": "Gayle Keeling",
+    "email": "mina37@company.com",
+    "phone": "827.529.1136",
+    "location": "Chesterberg, Brunei Darussalam",
+    "website": "https://subtle-airmail.info",
+    "focusAreas": [
+      "Energy",
+      "AI"
+    ],
+    "opportunitiesPosted": 7,
+    "tier": "platinum",
+    "createdAt": "2025-07-14T01:51:00.402Z",
+    "updatedAt": "2025-11-11T21:43:16.912Z",
+    "notes": "Dapifer conturbo decumbo avaritia non verus vindico tergum vulgus."
+  },
+  {
+    "id": "industry-70",
+    "companyName": "Cremin - Streich",
+    "contactName": "Charlene Armstrong",
+    "email": "sarai.balistreri93@company.com",
+    "phone": "474-290-7719 x81771",
+    "location": "Wesley Chapel, Singapore",
+    "website": "https://proud-dress.net/",
+    "focusAreas": [
+      "Education",
+      "FinTech"
+    ],
+    "opportunitiesPosted": 22,
+    "tier": "gold",
+    "createdAt": "2025-09-28T04:13:57.615Z",
+    "updatedAt": "2025-10-08T02:41:38.681Z",
+    "notes": "Undique veritas confugo demulceo vilicus cetera."
+  },
+  {
+    "id": "industry-71",
+    "companyName": "Predovic - Gerlach",
+    "contactName": "Dr. Bessie Dooley",
+    "email": "jamil_hessel15@company.com",
+    "phone": "1-856-387-0146 x5583",
+    "location": "Lake Fionaland, Indonesia",
+    "website": "https://intent-almighty.info/",
+    "focusAreas": [
+      "Manufacturing",
+      "Software"
+    ],
+    "opportunitiesPosted": 5,
+    "tier": "bronze",
+    "createdAt": "2023-02-26T12:57:30.643Z",
+    "updatedAt": "2025-11-05T03:52:30.848Z",
+    "notes": "Adicio subnecto creptio bestia defendo damno suscipio caute vis aurum."
+  },
+  {
+    "id": "industry-72",
+    "companyName": "Rohan Group",
+    "contactName": "Janet Turner",
+    "email": "violette_leannon9@company.com",
+    "phone": "(370) 817-5888 x1595",
+    "location": "Runtechester, South Africa",
+    "website": "https://antique-ethyl.info",
+    "focusAreas": [
+      "Manufacturing",
+      "AI"
+    ],
+    "opportunitiesPosted": 12,
+    "tier": "bronze",
+    "createdAt": "2023-03-15T19:05:41.366Z",
+    "updatedAt": "2025-10-09T16:15:48.918Z",
+    "notes": "Cumque beatus spero aestas aequus surculus solus vado agnosco aperte."
+  },
+  {
+    "id": "industry-73",
+    "companyName": "Hoppe Inc",
+    "contactName": "Myron Spinka",
+    "email": "esteban_hermann-schulist@company.com",
+    "phone": "(964) 200-6493 x080",
+    "location": "Hillsstead, Jersey",
+    "website": "https://forceful-coordination.org/",
+    "focusAreas": [
+      "Education",
+      "AI"
+    ],
+    "opportunitiesPosted": 22,
+    "tier": "bronze",
+    "createdAt": "2024-08-09T18:11:53.843Z",
+    "updatedAt": "2025-10-02T01:02:56.978Z",
+    "notes": "Vulpes video traho creta subseco adfectus odit clamo adfero cum."
+  },
+  {
+    "id": "industry-74",
+    "companyName": "Gerhold LLC",
+    "contactName": "Shannon Denesik",
+    "email": "lempi.hessel@company.com",
+    "phone": "621.856.5339 x11425",
+    "location": "New Citlalli, United Kingdom",
+    "website": "https://pure-grass.org",
+    "focusAreas": [
+      "AI",
+      "Manufacturing"
+    ],
+    "opportunitiesPosted": 1,
+    "tier": "platinum",
+    "createdAt": "2023-01-15T09:49:29.840Z",
+    "updatedAt": "2025-11-01T00:01:32.508Z",
+    "notes": "Sulum maxime utique contabesco."
+  },
+  {
+    "id": "industry-75",
+    "companyName": "Glover LLC",
+    "contactName": "Yolanda West I",
+    "email": "zackary27@company.com",
+    "phone": "400.253.8007 x6908",
+    "location": "Metzville, Samoa",
+    "website": "https://royal-daughter.org/",
+    "focusAreas": [
+      "FinTech",
+      "AI"
+    ],
+    "opportunitiesPosted": 1,
+    "tier": "platinum",
+    "createdAt": "2023-07-29T07:13:48.005Z",
+    "updatedAt": "2025-10-28T01:46:37.945Z",
+    "notes": "Vita aestas certe tumultus vinitor utilis appono quisquam demoror."
+  },
+  {
+    "id": "industry-76",
+    "companyName": "Williamson - Batz",
+    "contactName": "Barry Gerlach",
+    "email": "emmie_volkman49@company.com",
+    "phone": "1-754-964-3386 x74731",
+    "location": "Letitiamouth, Togo",
+    "website": "https://silent-toothpick.net",
+    "focusAreas": [
+      "Manufacturing",
+      "Software"
+    ],
+    "opportunitiesPosted": 1,
+    "tier": "platinum",
+    "createdAt": "2024-05-17T05:37:21.760Z",
+    "updatedAt": "2025-11-09T00:33:26.619Z",
+    "notes": "Cimentarius vinum sperno praesentium viduo advenio ait vehemens soleo terminatio."
+  },
+  {
+    "id": "industry-77",
+    "companyName": "Daugherty, Nitzsche and Heaney",
+    "contactName": "Paul Douglas",
+    "email": "jamaal_carroll80@company.com",
+    "phone": "256.848.6669 x704",
+    "location": "Milanshire, Tonga",
+    "website": "https://lost-circumference.org",
+    "focusAreas": [
+      "AI",
+      "Education"
+    ],
+    "opportunitiesPosted": 20,
+    "tier": "bronze",
+    "createdAt": "2023-10-14T18:55:12.095Z",
+    "updatedAt": "2025-11-10T16:06:39.832Z",
+    "notes": "Summa adeptio vita ad minus asporto vel tyrannus."
+  },
+  {
+    "id": "industry-78",
+    "companyName": "Pagac LLC",
+    "contactName": "Edna Nicolas",
+    "email": "bo38@company.com",
+    "phone": "587.834.9118",
+    "location": "New Mikel, Kenya",
+    "website": "https://quarterly-stir-fry.org",
+    "focusAreas": [
+      "FinTech",
+      "Software"
+    ],
+    "opportunitiesPosted": 17,
+    "tier": "gold",
+    "createdAt": "2023-01-11T06:38:26.302Z",
+    "updatedAt": "2025-10-06T13:24:25.461Z",
+    "notes": "Porro vestrum deleo sono comitatus tepesco aequus atavus."
+  },
+  {
+    "id": "industry-79",
+    "companyName": "Kunde, Kemmer and Jast",
+    "contactName": "Tom Adams",
+    "email": "ashlee32@company.com",
+    "phone": "992-561-2698 x363",
+    "location": "Ressiehaven, Israel",
+    "website": "https://round-vestment.org",
+    "focusAreas": [
+      "FinTech",
+      "Energy"
+    ],
+    "opportunitiesPosted": 20,
+    "tier": "gold",
+    "createdAt": "2025-08-03T06:14:39.850Z",
+    "updatedAt": "2025-09-23T03:26:05.303Z",
+    "notes": "Defero coadunatio degenero creator tergeo suppono exercitationem esse tactus."
+  },
+  {
+    "id": "industry-80",
+    "companyName": "Johnson - Stoltenberg",
+    "contactName": "Priscilla Mayert",
+    "email": "malachi93@company.com",
+    "phone": "1-988-882-0598 x93848",
+    "location": "Littelview, Kuwait",
+    "website": "https://peaceful-summary.com/",
+    "focusAreas": [
+      "FinTech",
+      "Manufacturing"
+    ],
+    "opportunitiesPosted": 2,
+    "tier": "platinum",
+    "createdAt": "2023-02-27T10:28:59.593Z",
+    "updatedAt": "2025-10-21T20:19:17.750Z",
+    "notes": "Succurro curatio decretum cerno cupiditate averto summisse molestias."
+  }
+]
