@@ -1,36 +1,134 @@
-# 🚀 Career Center Portal Backend
+# 🚀 Career Center Portal Backend (Java Edition)
 
-A production-grade backend system designed to connect 1,200+ university students with global industry partners.
+A high-performance, enterprise-grade backend for the **New Uzbekistan University Career Center**.
 
-This project is a high-performance migration from an Express.js prototype to a **Spring Boot 3** and **PostgreSQL** architecture, ensuring data integrity, security, and scalability for New Uzbekistan University.
+This project is a complete migration from a legacy **Node.js prototype** to a robust **Spring Boot 3 + PostgreSQL** architecture.  
+It maintains **full API compatibility** with the existing React frontend while introducing:
+
+- Strong type safety
+- ACID-compliant transactions
+- Advanced relational + JSON data modeling
 
 ---
 
-## 🏛️ Architecture & Database Strategy
-The system uses a **Hybrid Relational-Document Model** to handle the high complexity of academic data:
-- **Relational SQL:** Core fields (GPA, Major, Email, Status) are extracted into standard PostgreSQL columns for lightning-fast filtering and analytics.
-- **PostgreSQL JSONB:** Complex nested data structures (Research papers, multi-year course history, work experience) are stored in optimized `jsonb` columns, providing NoSQL-like flexibility within a SQL environment.
+## 🏗️ System Architecture
 
-## 🛠️ Technical Stack
-- **Language:** Java 21
-- **Framework:** Spring Boot 3.x (Web, Data JPA, Security)
-- **Database:** PostgreSQL (Cloud-hosted on Neon.tech)
-- **Data Handling:** Jackson & Hypersistence-Utils (for JSONB mapping)
-- **Deployment:** Docker (Multi-stage build)
+The application follows a strict **Layered Architecture** (Separation of Concerns) to ensure scalability, maintainability, and testability.
 
-## 🔌 API Features
-### 👨‍🎓 Student Management
-- **Dynamic Filtering:** Search by GPA range, Major, or Employment Status using `JpaSpecification`.
-- **Analytics:** `/api/students/stats` provides real-time distribution charts of student success metrics.
+### 📦 Package Structure
 
-### 💼 Job & Industry Portal
-- **Role-Based Access:** Industry partners can post opportunities; students can browse and apply.
-- **Deep Nesting:** Support for complex nested professor profiles and research data.
+```text
+com.careercenter
+├── config          # Security, CORS, application configuration
+├── controller      # REST controllers (API layer)
+├── dto             # Data Transfer Objects & validation
+├── entity          # JPA entities
+├── repository      # Spring Data JPA repositories
+├── security        # JWT, filters, authentication logic
+├── service         # Business logic
+├── seeder          # Data migration & initialization
+└── CareerCenterApplication.java
+```
 
-## 🚀 Getting Started
-### Local Development
-1. Configure your `.env` or Environment Variables:
-    - `DB_URL`, `DB_USERNAME`, `DB_PASSWORD`
-2. Run the application:
+---
+
+## ⚡ Key Technical Features
+
+### 🗄️ Hybrid Database Model (PostgreSQL)
+
+To handle complex academic data (nested semesters, grades, research papers) without creating hundreds of tables, the system uses **PostgreSQL JSONB**.
+
+- **Searchable Fields**  
+  Core data such as GPA, Major, Email, and Status are stored as standard SQL columns for fast filtering and analytics.
+
+- **Complex Data**  
+  Deeply nested and flexible structures are stored in optimized `jsonb` columns, preserving legacy data without loss.
+
+---
+
+### ✅ Robust Input Validation
+
+Strict validation is enforced at the **DTO level**:
+
+- **ID Format Validation**  
+  Ensures Student and Staff IDs match university patterns (e.g., `PU...`, `NU...`) before database interaction.
+
+- **Data Integrity Rules**  
+  Prevents invalid emails, negative values, and malformed academic records.
+
+---
+
+### 🔄 Smart Data Migration (Seeder)
+
+An automated **DataSeeder** runs on application startup:
+
+- Reads legacy `.json` data files
+- Transforms them into Java entities
+- Hashes passwords securely
+- Populates PostgreSQL automatically
+
+No manual SQL or imports required.
+
+---
+
+## 🐳 How to Run (Docker) — Recommended
+
+The entire system (Backend API + PostgreSQL) is fully containerized.
+
+### Prerequisites
+- Docker Desktop installed
+
+### Steps
+
+1. **Environment Configuration**
+   - Ensure a `.env` file exists in the project root (contains database credentials).
+
+2. **Run the System**
+   ```bash
+   docker-compose up --build
+   ```
+
+3. **Access**
+   - API: `http://localhost:4000/api`
+   - Database: Accessible internally via Docker network
+
+---
+
+## 🛠️ How to Run (Manual / Local)
+
+If you prefer running without Docker:
+
+### Requirements
+- PostgreSQL running on port `5432`
+- Java 17+
+- Maven
+
+### Steps
+
+1. Update `.env` or `application.properties` with local DB credentials.
+2. Run:
    ```bash
    mvn spring-boot:run
+   ```
+
+---
+
+## 🔐 Authentication & Roles
+
+The system implements a **unified login mechanism**.  
+Authentication is routed automatically to the correct user table based on email existence.
+
+### Demo Accounts
+
+| Role        | Email                         | Password        |
+|------------|-------------------------------|-----------------|
+| Student    | f.hayitov@newuu.uz            | student123     |
+| Staff      | s.tuychiyev@newuu.uz          | staff@123      |
+| Professor  | elon.mask@newuu.uz            | professor123   |
+| Industry   | hr@artel.uz                   | industry123    |
+
+---
+
+## 👨‍💻 Lead Developer
+
+**Otabek Abdumalikov**
