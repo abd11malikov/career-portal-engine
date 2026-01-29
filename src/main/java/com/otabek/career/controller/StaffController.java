@@ -2,6 +2,7 @@ package com.otabek.career.controller;
 
 import com.otabek.career.entity.Staff;
 import com.otabek.career.service.StaffService;
+import jakarta.validation.constraints.Email;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -20,7 +21,7 @@ public class StaffController {
     }
 
     @GetMapping("/by-email")
-    public ResponseEntity<Staff> getByEmail(@RequestParam String email) {
+    public ResponseEntity<Staff> getByEmail(@RequestParam @Email(message = "Email should be valid") String email) {
         return ResponseEntity.ok(staffService.getStaffByEmail(email));
     }
 }

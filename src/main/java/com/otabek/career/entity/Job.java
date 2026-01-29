@@ -3,7 +3,6 @@ package com.otabek.career.entity;
 import io.hypersistence.utils.hibernate.type.json.JsonType;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
-import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import org.hibernate.annotations.Type;
@@ -14,7 +13,6 @@ import java.util.Map;
 @Entity
 @Table(name = "jobs")
 @Data
-@Builder
 @NoArgsConstructor
 @AllArgsConstructor
 public class Job {

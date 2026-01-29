@@ -1,6 +1,7 @@
 package com.otabek.career.service;
 
-import com.otabek.career.dto.JobDTO;
+import com.otabek.career.dto.request.JobRequestDTO;
+import com.otabek.career.dto.response.JobDTO;
 import com.otabek.career.entity.Job;
 import com.otabek.career.repository.JobRepository;
 import lombok.RequiredArgsConstructor;
@@ -28,7 +29,7 @@ public class JobService {
         return mapToDTO(job);
     }
 
-    public JobDTO createJob(JobDTO dto) {
+    public JobDTO createJobFromRequest(JobRequestDTO dto) {
         Job job = new Job();
         job.setId(dto.getId() != null ? dto.getId() : "job-" + UUID.randomUUID().toString().substring(0,8));
 
@@ -44,6 +45,7 @@ public class JobService {
         Job saved = jobRepository.save(job);
         return mapToDTO(saved);
     }
+
 
     private JobDTO mapToDTO(Job job) {
         return JobDTO.builder()

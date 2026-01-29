@@ -7,6 +7,7 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;
+import java.util.Optional;
 
 @Repository
 public interface StudentRepository extends JpaRepository<Student, String>,
@@ -16,4 +17,6 @@ public interface StudentRepository extends JpaRepository<Student, String>,
 
     @Query("SELECT s.employmentStatus, COUNT(s) FROM Student s GROUP BY s.employmentStatus")
     List<Object[]> getEmploymentStats();
+
+    Optional<Student> findByEmail(String email);
 }

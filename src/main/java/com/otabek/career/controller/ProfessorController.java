@@ -1,7 +1,8 @@
 package com.otabek.career.controller;
 
-import com.otabek.career.dto.ProfessorDTO;
+import com.otabek.career.dto.response.ProfessorDTO;
 import com.otabek.career.service.ProfessorService;
+import jakarta.validation.constraints.Pattern;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -21,7 +22,7 @@ public class ProfessorController {
     }
 
     @GetMapping("/{id}")
-    public ResponseEntity<ProfessorDTO> getById(@PathVariable String id) {
+    public ResponseEntity<ProfessorDTO> getById(@PathVariable @Pattern(regexp = "^[a-zA-Z0-9-_]+$", message = "Invalid professor ID format") String id) {
         return ResponseEntity.ok(professorService.getProfessorById(id));
     }
 }

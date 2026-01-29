@@ -1,6 +1,6 @@
 package com.otabek.career.service;
 
-import com.otabek.career.dto.IndustryPartnerDTO;
+import com.otabek.career.dto.response.IndustryPartnerDTO;
 import com.otabek.career.entity.IndustryPartner;
 import com.otabek.career.repository.IndustryRepository;
 import lombok.RequiredArgsConstructor;

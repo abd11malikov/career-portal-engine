@@ -1,8 +1,11 @@
 package com.otabek.career.controller;
 
-import com.otabek.career.dto.StudentStatsDTO;
+import com.otabek.career.dto.response.StudentStatsDTO;
 import com.otabek.career.entity.Student;
 import com.otabek.career.service.StudentService;
+import jakarta.validation.constraints.Max;
+import jakarta.validation.constraints.Min;
+import jakarta.validation.constraints.Pattern;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.http.ResponseEntity;
@@ -25,8 +28,8 @@ public class StudentController {
             @RequestParam(required = false) String employmentStatus,
             @RequestParam(required = false) Double minGpa,
             @RequestParam(required = false) Boolean needsUpdate,
-            @RequestParam(defaultValue = "0") int page,
-            @RequestParam(defaultValue = "10") int limit
+            @RequestParam(defaultValue = "0") @Min(0) int page,
+            @RequestParam(defaultValue = "10") @Min(1) @Max(100) int limit
     ) {
         return ResponseEntity.ok(studentService.getStudents(search, major, employmentStatus, minGpa, needsUpdate, page, limit));
     }
@@ -40,7 +43,7 @@ public class StudentController {
         return ResponseEntity.ok(studentService.getStudentByEmail(email));
     }
     @GetMapping("/{id}")
-    public ResponseEntity<Student> getStudentById(@PathVariable String id) {
+    public ResponseEntity<Student> getStudentById(@PathVariable @Pattern(regexp = "^[a-zA-Z0-9-_]+$", message = "Invalid student ID format") String id) {
         return ResponseEntity.ok(studentService.getStudentById(id));
     }
 }

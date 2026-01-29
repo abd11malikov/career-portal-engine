@@ -1,6 +1,6 @@
 package com.otabek.career.service;
 
-import com.otabek.career.dto.StudentStatsDTO;
+import com.otabek.career.dto.response.StudentStatsDTO;
 import com.otabek.career.entity.Student;
 import com.otabek.career.repository.StudentRepository;
 import com.otabek.career.specification.StudentSpecification;

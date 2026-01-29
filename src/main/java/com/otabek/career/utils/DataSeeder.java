@@ -131,7 +131,6 @@ public class DataSeeder implements CommandLineRunner {
             System.out.println("✅ Saved " + jobs.size() + " jobs.");
         }
         if (industryRepository.count() == 0) {
-            System.out.println("🌱 Seeding Industries...");
             InputStream is = TypeReference.class.getResourceAsStream("/data/industry.json");
             List<Map<String, Object>> jsonList = objectMapper.readValue(is, new TypeReference<List<Map<String, Object>>>(){});
 

@@ -1,6 +1,6 @@
 package com.otabek.career.service;
 
-import com.otabek.career.dto.ProfessorDTO;
+import com.otabek.career.dto.response.ProfessorDTO;
 import com.otabek.career.entity.Professor;
 import com.otabek.career.repository.ProfessorRepository;
 import lombok.RequiredArgsConstructor;
