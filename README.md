@@ -128,6 +128,58 @@ Authentication is routed automatically to the correct user table based on email 
 | Industry   | hr@artel.uz                   | industry123    |
 
 ---
+# API Endpoints
+
+## Authentication
+
+- **POST** `/api/auth/login`  
+  Unified login endpoint for **Students**, **Staff**, **Professors**, and **Industry** partners
+
+## Student Module
+
+- **GET** `/api/students`  
+  List students with support for filtering  
+  Query parameters:
+    - `?search=`
+    - `?major=`
+    - `?minGpa=`
+    - (and other filters)
+
+- **GET** `/api/students/stats`  
+  Real-time analytics and statistics (used for Dashboard)
+
+- **GET** `/api/students/{id}`  
+  Get single student by ID
+
+- **GET** `/api/students/by-email?email=...`  
+  Get student by email
+
+## Job & Industry Module
+
+- **GET** `/api/jobs`  
+  List all job postings
+
+- **POST** `/api/jobs`  
+  Create and persist a new job posting
+
+- **GET** `/api/industry`  
+  List industry partners/companies
+
+- **GET** `/api/industry/by-email?email=...`  
+  Get industry partner by email
+
+## Staff & Faculty Module
+
+- **GET** `/api/staff`  
+  List staff members
+
+- **GET** `/api/professors`  
+  List professors
+
+- **GET** `/api/professors/{id}`  
+  Get single professor by ID
+
+---
 
 ## 👨‍💻 Lead Developer
 
