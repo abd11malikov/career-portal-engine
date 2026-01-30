@@ -160,7 +160,7 @@ Authentication is routed automatically to the correct user table based on email 
   List all job postings
 
 - **POST** `/api/jobs`  
-  Create and persist a new job posting
+  Create and persist a new job posting  (Industry only)
 
 - **GET** `/api/industry`  
   List industry partners/companies
